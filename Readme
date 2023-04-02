@@ -1,6 +1,10 @@
 Hi there,
 Repository made for TechSpark Competition.
 We have created a project solving Courier tracking.
-
+• Secured second place in TechSpark Challenge, created a restful service application that solves courier 
+tracking problems for a company.
+• Designed two modules for the application: Employee and Courier Agent.
+• Developed using J2EE platform, Spring Restful services and database as MySQL.
+• Implemented API mapping using POSTMAN tool.
 from,
 HugsForBugs.
